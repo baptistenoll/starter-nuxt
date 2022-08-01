@@ -1,0 +1,35 @@
+@font-face {
+    font-family: "inter thin";
+    src: local("Inter-Thin"),
+     url(~assets/fonts/inter/Inter-Thin.ttf) format("truetype");
+}
+
+@font-face {
+    font-family: "inter light";
+    src: local("Inter-Light"),
+     url(~assets/fonts/inter/Inter-Light.ttf) format("truetype");
+}
+
+@font-face {
+    font-family: "inter regular";
+    src: local("Inter-Regular"),
+     url(~assets/fonts/inter/Inter-Regular.ttf) format("truetype");
+}
+
+@font-face {
+    font-family: "inter bold";
+    src: local("Inter-Bold"),
+     url(~assets/fonts/inter/Inter-Bold.ttf) format("truetype");
+}
+
+@font-face {
+    font-family: "inter extrabold";
+    src: local("Inter-ExtraBold"),
+     url(~assets/fonts/inter/Inter-ExtraBold.ttf) format("truetype");
+}
+
+@font-face {
+    font-family: "forum regular";
+    src: local("Forum-Regular"),
+     url(~assets/fonts/forum/Forum-Regular.ttf) format("truetype");
+}
